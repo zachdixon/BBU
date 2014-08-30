@@ -1,0 +1,26 @@
+/* Bootstrap Override */
+.navbar-brand {
+  padding: 0;
+}
+
+.panel-heading h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+/* END Bootstrap Override */
+
+body {
+  margin-top: 50px;
+}
+
+ul {
+  padding: 0 0 0 10px;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.img-graph {
+  width: 100%;
+}
